@@ -1,0 +1,192 @@
+{
+  "status": "SPECIFICATION_ONLY_NO_VIDEOS_RENDERED",
+  "loop_design": "silent manual-slide-control",
+  "clips": [
+    {
+      "id": "S02_FiberChains",
+      "slide": 2,
+      "file": "S02_FiberChains_loop.mp4",
+      "duration": 10,
+      "frames": 300,
+      "objective": "Giúp người xem phân biệt một mạch polymer với bó nhiều mạch tương đối song song.",
+      "visual": "Three.js: 5–7 đường mạch dài gần song song; mỗi mạch gồm các đơn vị lặp bằng hình capsule đơn giản. Không giả đây là mô hình nguyên tử của cellulose. Góc nghiêng nhỏ, ánh sáng mềm; toàn bộ bó luôn ở trong khung. Tối đa hai nhãn cố định: “Một mạch polymer”, “Nhiều mạch song song”.",
+      "motion": "Dao động hình học rất nhỏ theo sin/cos tuần hoàn; không gom từ hỗn loạn rồi bung ra ở cuối. Camera không bay xuyên rồi reset. Không bẻ đứt mạch.",
+      "accuracy": "Mô hình sơ đồ, không theo tỉ lệ. Giữ chữ “thường” trong lời dẫn về mạch không phân nhánh. Không vẽ nhánh hóa học tùy tiện.",
+      "source": [
+        "SGK-1"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "container": "mp4",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "poster": "S02_FiberChains_poster.png",
+      "panel_background": "#093F49",
+      "pane_inches": [
+        6.05,
+        2.08,
+        6.55,
+        3.684375
+      ],
+      "layout_reference": "sources/S02_FiberChains_layout_reference.png"
+    },
+    {
+      "id": "S05_Nylon66",
+      "slide": 5,
+      "file": "S05_Nylon66_loop.mp4",
+      "duration": 10,
+      "frames": 300,
+      "objective": "Nhìn được đoạn mạch polyamide và vùng –CO–NH– mà không mất công thức chuẩn trên slide.",
+      "visual": "Three.js: một đoạn mạch ngắn đủ 2 mắt xích nylon-6,6. Bản 2D chuẩn luôn được giữ trên slide, không đưa công thức thành một vật thể xoay khó đọc. Mã màu nguyên tử có chú giải nếu dùng ball-and-stick. Có thể dùng mô hình đoạn mạch ký hiệu thay cho ball-and-stick nếu không bảo đảm đúng hóa trị.",
+      "motion": "Góc yaw dao động khoảng ±8 độ, roll rất nhỏ. Hai vùng amide sáng nhẹ đồng thời hoặc một vùng cố định; không lần lượt chuyển chủ đề ngoài nhịp nói.",
+      "accuracy": "Mắt xích [-NH-(CH2)6-NH-CO-(CH2)4-CO-]n. Đếm đủ carbon trong mỗi đoạn. Carbonyl C=O, N có H và hai liên kết mạch; không tạo mạch vòng hay nối sai N–N. Không dựng cơ chế trùng ngưng mới vì ảnh SGK không trình bày.",
+      "source": [
+        "SGK-2"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "container": "mp4",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "poster": "S05_Nylon66_poster.png",
+      "panel_background": "#093F49",
+      "pane_inches": [
+        6.05,
+        2.08,
+        6.55,
+        3.684375
+      ],
+      "layout_reference": "sources/S05_Nylon66_layout_reference.png"
+    },
+    {
+      "id": "S06_Capron",
+      "slide": 6,
+      "file": "S06_Capron_loop.mp4",
+      "duration": 12,
+      "frames": 360,
+      "objective": "Nhìn rõ chất vòng và mạch sản phẩm của phản ứng trùng hợp mở vòng.",
+      "visual": "Hai cấu trúc cùng tồn tại trong toàn bộ vòng lặp: trái ε-caprolactam; phải đoạn capron. Vòng gồm 1 N và 6 C, một C là carbonyl và năm CH2. Một mũi tên 2D sang phải, nhãn “Trùng hợp mở vòng” đứng yên. Vẽ bằng SVG/Remotion nếu mô hình 3D làm công thức khó đọc.",
+      "motion": "Dùng một vệt highlight chạy dọc mũi tên một chiều. Vệt hết ở cuối rồi xuất hiện lại từ đầu ở trạng thái mờ; chất phản ứng và sản phẩm không biến ngược. Sản phẩm chỉ nghiêng/rung nhẹ tuần hoàn. Không chạy clip xuôi rồi reverse.",
+      "accuracy": "Sơ đồ tổng quát, không phải cơ chế. Mắt xích [-NH-(CH2)5-CO-]n; t° như ảnh nguồn; không thêm sản phẩm nước hay chất xúc tác không có nguồn.",
+      "source": [
+        "SGK-2"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "container": "mp4",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "poster": "S06_Capron_poster.png",
+      "panel_background": "#093F49",
+      "pane_inches": [
+        5.05,
+        2.1,
+        7.5,
+        4.21875
+      ],
+      "layout_reference": "sources/S06_Capron_layout_reference.png"
+    },
+    {
+      "id": "S07_Nitron",
+      "slide": 7,
+      "file": "S07_Nitron_loop.mp4",
+      "duration": 10,
+      "frames": 300,
+      "objective": "So sánh C=C ở monomer với mạch sản phẩm; giữ nguyên nhóm nitrile.",
+      "visual": "Trái monomer CH2=CH–C≡N; phải 2–3 mắt xích polyacrylonitrile. Công thức 2D nCH2=CH–CN → [-CH2-CH(CN)-]n đi cùng sơ đồ (nhãn t°, xt, p). Không hiển thị CN như một liên kết đôi tùy tiện. Các nhãn đứng yên.",
+      "motion": "Highlight C=C và vị trí mạch chính tương ứng, dùng hai vùng sáng nhẹ có cùng chu kỳ. Không chuyển CN sang vị trí khác. Camera biên độ nhỏ, không xoay 360 độ.",
+      "accuracy": "Liên kết C≡N giữ nguyên. Mỗi mắt xích có một nhóm nitrile gắn ở carbon CH của mạch. Không nhầm nitrile với amide.",
+      "source": [
+        "SGK-2"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "container": "mp4",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "poster": "S07_Nitron_poster.png",
+      "panel_background": "#093F49",
+      "pane_inches": [
+        5.05,
+        2.1,
+        7.5,
+        4.21875
+      ],
+      "layout_reference": "sources/S07_Nitron_layout_reference.png"
+    },
+    {
+      "id": "S08_CellulosePaths",
+      "slide": 8,
+      "file": "S08_CellulosePaths_loop.mp4",
+      "duration": 10,
+      "frames": 300,
+      "objective": "Giải thích cùng nguồn cellulose nhưng visco và cellulose acetate không được đồng nhất.",
+      "visual": "Sơ đồ 2D Remotion: “Cellulose tự nhiên” chia hai nhánh cùng hiện rõ đến “Visco” và “Cellulose acetate”. Dưới visco: “Cấu trúc phân tử giống cellulose”; dưới acetate: “2 hoặc 3 nhóm acetate/mắt xích”. Không thêm phương trình sản xuất chi tiết chưa có trong SGK.",
+      "motion": "Các đường dẫn có điểm sáng chuyển động chậm tuần hoàn, toàn bộ nhãn và cấu trúc ổn định. Không thay nhau giấu nhánh khiến người nói bị ép thời gian.",
+      "accuracy": "Đây là sơ đồ nguồn gốc/chế biến, không phải một phương trình phản ứng đơn. Giữ công thức chi tiết theo nguồn ở phụ lục; không dựng mô hình nguyên tử cellulose giả để trang trí.",
+      "source": [
+        "SGK-2",
+        "SGK-3"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "container": "mp4",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "poster": "S08_CellulosePaths_poster.png",
+      "panel_background": "#093F49",
+      "pane_inches": [
+        6.05,
+        2.08,
+        6.55,
+        3.684375
+      ],
+      "layout_reference": "sources/S08_CellulosePaths_layout_reference.png"
+    },
+    {
+      "id": "S10_Microfibers",
+      "slide": 10,
+      "file": "S10_Microfibers_loop.mp4",
+      "duration": 12,
+      "frames": 360,
+      "objective": "Minh họa một đường phát thải vi sợi nhựa và giới hạn của xử lý nước thải.",
+      "visual": "Vải tổng hợp → giặt → công đoạn xử lý → nước môi trường. Một số đoạn sợi bị giữ ở bộ phận thu gom, một số tiếp tục. Dòng chảy sang phải. Nhãn nhỏ: “Sơ đồ minh họa, không biểu thị tỉ lệ thực tế”. Không hạt nhựa ăn vào cơ thể hoặc cảnh sức khỏe gây sợ hãi.",
+      "motion": "Các hạt di chuyển theo đường lặp định trước, chỉ tái sinh ngoài vùng nhìn; vật thể quần áo/máy giặt/bộ phận xử lý đứng yên. Không để hạt được lọc tự bay ngược vào nước để reset.",
+      "accuracy": "Chỉ ghi vi sợi nhựa cho sợi tổng hợp. Không ghi mọi vi sợi là vi nhựa. Không hiện con số tỷ lệ lọc/khối lượng/phát thải. Xử lý giảm chứ không khẳng định loại bỏ 100%.",
+      "source": [
+        "EEA-1",
+        "EEA-2"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "container": "mp4",
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "audio": false,
+      "poster": "S10_Microfibers_poster.png",
+      "panel_background": "#093F49",
+      "pane_inches": [
+        6.05,
+        2.08,
+        6.55,
+        3.684375
+      ],
+      "layout_reference": "sources/S10_Microfibers_layout_reference.png"
+    }
+  ],
+  "canva_design_id": "DAHbLjaPHNI",
+  "canva_edit_url": "https://www.canva.com/d/IQi3MWq_1OLB59r",
+  "original_design_id": "DAHbLTms9mU",
+  "original_design_unchanged": true
+}

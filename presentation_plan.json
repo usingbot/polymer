@@ -1,0 +1,363 @@
+{
+  "assumed_duration_minutes": 12,
+  "main_slides": [
+    {
+      "n": 1,
+      "title": "Cùng là quần áo. Vì sao khác chất liệu?",
+      "time": "00:00–01:10",
+      "seconds": 70,
+      "source": "SGK-1; đạo cụ do người thuyết trình chuẩn bị",
+      "loop": null,
+      "screen": "Một câu hỏi lớn. Ba nhãn A/B/C tượng trưng cho ba món đồ thật, không tự gán thành phần.",
+      "cues": [
+        [
+          "00:00–00:15",
+          "Chào cô và lớp; giơ lần lượt ba món quần áo."
+        ],
+        [
+          "00:15–00:40",
+          "Đặt câu hỏi; nhận tối đa hai ý kiến, mỗi ý kiến một câu."
+        ],
+        [
+          "00:40–01:10",
+          "Chỉ nhãn thành phần một món và chuyển vào thế giới polymer."
+        ]
+      ],
+      "speech": "Chào cô và các bạn. Hôm nay nhóm mình không bắt đầu bằng một định nghĩa, mà bằng ba món quần áo có thật. Mọi người thử nhìn và nghĩ xem: cùng dùng để mặc, tại sao chúng lại có chất liệu khác nhau? [Dừng để nhận một hoặc hai ý kiến.] Có bạn nghĩ đến độ mềm, có bạn nghĩ đến việc mặc nóng hay lạnh. Nhưng chỉ nhìn kiểu dáng hoặc sờ bề mặt thì chưa đủ để kết luận đó là loại tơ nào. Mình sẽ dùng nhãn thành phần để kiểm tra. [Đọc đúng nhãn một món đồ.] Trong bài này, chúng ta sẽ đi từ sợi vải đến polymer tạo nên nó, rồi quay lại giải thích cách chọn và sử dụng quần áo. Cuối bài, ba món đồ này sẽ là bài kiểm tra của cả lớp.",
+      "transition": "Trước hết, một sợi tơ thực chất là gì?",
+      "cut": "Chỉ nhận một câu trả lời, không chuyền quần áo cả lớp ở đầu bài.",
+      "risk": "Chưa biết thành phần ba món đồ. Điền đúng nhãn trước khi tập nói; không tự nhận áo dệt len là lông cừu."
+    },
+    {
+      "n": 2,
+      "title": "Tơ: polymer ở dạng sợi",
+      "time": "01:10–02:10",
+      "seconds": 60,
+      "source": "SGK-1: Khái niệm",
+      "loop": "S02_FiberChains_loop.mp4",
+      "screen": "Định nghĩa đầy đủ; hình nhiều mạch dài tương đối song song; từ khóa “thường không phân nhánh”.",
+      "cues": [
+        [
+          "01:10–01:25",
+          "Nêu định nghĩa; chỉ từ “sợi mảnh” và “độ bền”."
+        ],
+        [
+          "01:25–01:50",
+          "Chỉ một mạch, rồi cả bó mạch trên mô hình."
+        ],
+        [
+          "01:50–02:10",
+          "Nêu các đặc điểm còn lại; kết luận mô hình chỉ là minh họa."
+        ]
+      ],
+      "speech": "Theo sách giáo khoa, tơ là những vật liệu polymer có dạng sợi mảnh và có độ bền nhất định. Trên màn hình, mỗi đường dài đang đại diện cho một mạch polymer, chứ không phải một sợi vải hoàn chỉnh. Các mạch dùng làm tơ thường không phân nhánh và được sắp xếp song song với nhau. Mình nhấn mạnh chữ “thường”, vì đây là cách mô tả khái quát trong sách. SGK còn nêu các polymer này tương đối bền với dung môi thông thường, mềm, dai, không độc và có khả năng nhuộm màu. Hình chuyển động giúp mình chỉ vị trí các mạch; nó không phải hình chụp hay mô phỏng định lượng của mọi loại tơ. Vậy những vật liệu có dạng sợi này được chia thành những nhóm nào?",
+      "transition": "Để phân loại, ta xét nguồn gốc và quá trình chế tạo.",
+      "cut": "Không giải thích sâu lực tương tác giữa các mạch; nội dung đó không có trong ảnh SGK đã cung cấp.",
+      "risk": "Không nói tất cả các mạch đều thẳng hoàn toàn; không suy ra độ bền định lượng từ mô hình."
+    },
+    {
+      "n": 3,
+      "title": "Ba nhóm tơ — ba cách hình thành",
+      "time": "02:10–02:55",
+      "seconds": 45,
+      "source": "SGK-1: Hình 13.2",
+      "loop": null,
+      "screen": "Ba nhánh trực tiếp: tự nhiên, tổng hợp, bán tổng hợp. Mỗi nhánh có tiêu chí và ví dụ.",
+      "cues": [
+        [
+          "02:10–02:25",
+          "Chỉ nhánh tự nhiên; đọc tiêu chí, không đọc mọi ví dụ."
+        ],
+        [
+          "02:25–02:40",
+          "Đối chiếu tổng hợp với bán tổng hợp."
+        ],
+        [
+          "02:40–02:55",
+          "Hỏi nhanh: “Visco bắt đầu từ loại polymer nào?” rồi dẫn tiếp."
+        ]
+      ],
+      "speech": "Theo sơ đồ trong SGK, tơ được chia thành ba nhóm. Tơ tự nhiên có sẵn trong tự nhiên, như bông, len và tơ tằm. Tơ tổng hợp được chế tạo từ polymer tổng hợp, chẳng hạn nylon-6,6, capron và nitron. Nhóm còn lại là tơ bán tổng hợp: xuất phát từ polymer tự nhiên nhưng được chế biến bằng phương pháp hóa học, ví dụ visco và cellulose acetate. Điểm dễ nhầm nằm ở hai nhóm cuối: cùng có sự can thiệp của con người, nhưng nguồn polymer ban đầu khác nhau. Vì vậy, chúng ta không phân loại chỉ bằng cảm giác mềm hay cứng của vải.",
+      "transition": "Nhìn vào nhóm thứ nhất: bông, len và tơ tằm khác nhau ở đâu?",
+      "cut": "Bỏ câu hỏi kiểm tra visco; giữ rõ sự khác biệt tổng hợp/bán tổng hợp.",
+      "risk": "Giữ sơ đồ ba nhóm theo đúng ảnh SGK; không đổi thành hệ phân loại khác mà không giải thích."
+    },
+    {
+      "n": 4,
+      "title": "Tơ tự nhiên: cellulose hay protein?",
+      "time": "02:55–04:05",
+      "seconds": 70,
+      "source": "SGK-1: Bông, len; SGK-2: Tơ tằm",
+      "loop": null,
+      "screen": "Ba ảnh minh họa và ba thẻ: Bông—cellulose; Len—protein; Tơ tằm—protein.",
+      "cues": [
+        [
+          "02:55–03:15",
+          "Nêu nguồn gốc bông và thành phần cellulose."
+        ],
+        [
+          "03:15–03:40",
+          "So sánh len với tơ tằm: cùng protein nhưng ví dụ sử dụng khác."
+        ],
+        [
+          "03:40–04:05",
+          "Liên hệ một món đồ thật nếu nhãn phù hợp; chốt ba tên."
+        ]
+      ],
+      "speech": "Bông được lấy từ quả bông; thành phần chủ yếu của sợi bông là cellulose. SGK nêu sợi bông mềm mịn, thấm hút mồ hôi tốt và thông thoáng, nên vải cotton được dùng phổ biến trong may mặc. Len lại được lấy từ lông một số động vật như cừu, dê hoặc lạc đà; thành phần chính là protein. Đặc điểm nổi bật ở đây là giữ nhiệt tốt, nên len được dùng cho áo, áo choàng và khăn. Tơ tằm cũng là protein, nhưng được lấy từ kén của con sâu tằm. Vải tơ tằm có độ bóng, mềm mại, thoáng khí và hút ẩm tốt. Mọi người chỉ cần nhớ một đối chiếu: bông gắn với cellulose; len và tơ tằm gắn với protein. Khi liên hệ với quần áo thật, mình sẽ dựa vào nhãn thành phần, không chỉ dựa vào tên gọi của món đồ.",
+      "transition": "Còn các loại tơ được tạo từ polymer tổng hợp thì sao?",
+      "cut": "Nêu một ứng dụng mỗi loại; không mô tả quy trình nuôi tằm hoặc kéo sợi.",
+      "risk": "Ảnh chỉ minh họa ứng dụng; không dùng ảnh để chứng nhận thành phần sợi của sản phẩm."
+    },
+    {
+      "n": 5,
+      "title": "Nylon-6,6: nhận ra nhóm amide",
+      "time": "04:05–05:05",
+      "seconds": 60,
+      "source": "SGK-2: Tơ nylon-6,6",
+      "loop": "S05_Nylon66_loop.mp4",
+      "screen": "Polyamide; hai chất ban đầu mỗi chất có 6 carbon; mắt xích cấu tạo; ảnh dây.",
+      "cues": [
+        [
+          "04:05–04:25",
+          "Nêu nhóm polyamide và ý nghĩa hai số 6."
+        ],
+        [
+          "04:25–04:45",
+          "Chỉ nhóm –CO–NH–, rồi mắt xích trên công thức tĩnh."
+        ],
+        [
+          "04:45–05:05",
+          "Nối tính chất dai, mềm, ít thấm nước với ứng dụng."
+        ]
+      ],
+      "speech": "Nylon-6,6 thuộc loại tơ polyamide. Theo SGK, nó được tổng hợp từ hai loại hợp chất mà mỗi phân tử đều có sáu nguyên tử carbon. Đó là điểm cần nhớ khi nhìn tên 6,6, không phải cứ thấy một đoạn mạch có sáu carbon là đủ. Trên công thức này, mình đánh dấu nhóm amide, viết gọn là CO–NH. Công thức nằm yên để mọi người đọc, còn mô hình bên cạnh chỉ giúp nhìn đoạn mạch rõ hơn. Nylon-6,6 dai, mềm và ít thấm nước. Các ứng dụng được SGK nêu gồm vải may mặc, vải lót lốp xe, dây cáp, dây dù và lưới. Mình lưu ý: “ít thấm nước” không phải là khẳng định mọi sản phẩm làm từ nylon đều hoàn toàn chống nước.",
+      "transition": "Loại polyamide tiếp theo được giới thiệu bằng một phản ứng mở vòng.",
+      "cut": "Chỉ nêu hai ứng dụng: dây dù và vải lót lốp xe.",
+      "risk": "Không nhầm nylon-6,6 với capron; không dùng sơ đồ carbon không đủ số. Không bổ sung cơ chế trùng ngưng ngoài phạm vi nguồn."
+    },
+    {
+      "n": 6,
+      "title": "Capron: từ vòng thành mạch",
+      "time": "05:05–06:00",
+      "seconds": 55,
+      "source": "SGK-2: Tơ capron",
+      "loop": "S06_Capron_loop.mp4",
+      "screen": "ε-caprolactam; mũi tên trùng hợp mở vòng có t°; mắt xích [–NH–(CH₂)₅–CO–]ₙ.",
+      "cues": [
+        [
+          "05:05–05:20",
+          "Chỉ cấu trúc vòng của ε-caprolactam."
+        ],
+        [
+          "05:20–05:40",
+          "Chỉ chiều mũi tên và mạch capron; nói “sơ đồ tổng quát”."
+        ],
+        [
+          "05:40–06:00",
+          "Nêu tính chất; dừng câu rồi bấm, không chờ vòng video."
+        ]
+      ],
+      "speech": "Tơ capron thường được tổng hợp bằng phản ứng trùng hợp mở vòng epsilon-caprolactam. Mọi người so sánh hai phía: bên trái là chất ban đầu có cấu trúc vòng; bên phải là đoạn mạch polymer với mắt xích được viết gọn như trên màn hình. Video minh họa chiều biến đổi này, không mô phỏng đầy đủ cơ chế phản ứng. Vì thế, phần lặp chỉ làm các chi tiết được nhấn sáng lại, chứ không cho polymer chạy ngược để tự biến thành monomer. Theo SGK, capron bền, có độ đàn hồi và độ bóng cao, ít nhăn, có khả năng chống mài mòn. Điểm cần nhớ ở slide này là tên monomer và cụm từ “trùng hợp mở vòng”.",
+      "transition": "Với nitron, dấu hiệu cần quan sát lại là một liên kết đôi.",
+      "cut": "Chỉ nhắc ba tính chất: bền, đàn hồi, chống mài mòn.",
+      "risk": "Vòng caprolactam có 1 N và 6 C, gồm carbonyl C; không vẽ sai thành vòng sáu thành viên. Không đảo chiều phản ứng để tạo loop."
+    },
+    {
+      "n": 7,
+      "title": "Nitron: chú ý liên kết C=C",
+      "time": "06:00–06:55",
+      "seconds": 55,
+      "source": "SGK-2: Tơ nitron (olon)",
+      "loop": "S07_Nitron_loop.mp4",
+      "screen": "Acrylonitrile → polyacrylonitrile (nitron); công thức trùng hợp; nhóm –CN vẫn nằm bên mạch.",
+      "cues": [
+        [
+          "06:00–06:15",
+          "Đọc tên acrylonitrile và nitron/olon."
+        ],
+        [
+          "06:15–06:40",
+          "Đối chiếu C=C trước phản ứng với mạch sản phẩm; chỉ nhóm CN."
+        ],
+        [
+          "06:40–06:55",
+          "Nêu giữ nhiệt và ví dụ áo ấm, vải bạt."
+        ]
+      ],
+      "speech": "Nitron còn được gọi là olon. Tơ này được tổng hợp bằng phản ứng trùng hợp vinyl cyanide, hay acrylonitrile, tạo thành polyacrylonitrile. Mọi người nhìn công thức: chất ban đầu có liên kết đôi giữa hai carbon. Ở mắt xích sản phẩm, các carbon này trở thành một phần của mạch chính, còn nhóm CN vẫn là nhóm gắn bên mạch. Đây là lý do khi dựng hình, mình không được tùy tiện làm mất nhóm CN hay biến liên kết ba của nhóm đó thành liên kết đơn. Theo SGK, nitron dai, bền với nhiệt và giữ nhiệt tốt; được dùng cho quần áo ấm, vải bạt, mái hiên ngoài trời và các ứng dụng khác. Như vậy, vật liệu giữ ấm không chỉ có len tự nhiên.",
+      "transition": "Còn visco và cellulose acetate bắt đầu từ polymer có sẵn trong tự nhiên.",
+      "cut": "Chỉ nêu áo ấm và mái hiên, không liệt kê toàn bộ ứng dụng.",
+      "risk": "C=C của monomer và C≡N của nhóm nitrile là hai liên kết khác nhau; không animate nhầm."
+    },
+    {
+      "n": 8,
+      "title": "Bán tổng hợp: bắt đầu từ cellulose",
+      "time": "06:55–08:00",
+      "seconds": 65,
+      "source": "SGK-2: Visco; SGK-3: Cellulose acetate",
+      "loop": "S08_CellulosePaths_loop.mp4",
+      "screen": "Cellulose là nguồn gốc chung; visco và cellulose acetate ở hai nhánh; đặc điểm và ví dụ khác nhau.",
+      "cues": [
+        [
+          "06:55–07:15",
+          "Nêu lại tiêu chí bán tổng hợp."
+        ],
+        [
+          "07:15–07:35",
+          "Giải thích visco theo SGK, liên hệ quần áo mùa hè."
+        ],
+        [
+          "07:35–08:00",
+          "Giới thiệu 2 hoặc 3 nhóm acetate/mắt xích và ví dụ satin, dệt kim."
+        ]
+      ],
+      "speech": "Điểm chung của hai loại tơ này là được chế biến từ polymer tự nhiên bằng phương pháp hóa học. Với visco, SGK nêu cấu trúc phân tử giống cellulose và được sản xuất từ các nguồn cellulose. Vải visco dai, bền, thấm mồ hôi, thoáng khí, thường dùng cho quần áo mùa hè. Với cellulose acetate, sách nêu mỗi mắt xích thường chứa hai hoặc ba nhóm acetate. Công thức đầy đủ của hai trường hợp được giữ ở phụ lục để xem khi cần, chứ mình không bắt cả lớp đọc một công thức dài trong lúc nghe giải thích. Những đặc điểm SGK nhấn mạnh gồm mềm, mịn, đàn hồi, thoáng khí, thấm hút mồ hôi, khô nhanh và bền màu; ứng dụng có satin và dệt kim. Đừng nhầm hai tên khác nhau thành hai tơ hoàn toàn cùng cấu tạo.",
+      "transition": "Bây giờ thử dùng những kiến thức này để lựa chọn vật liệu.",
+      "cut": "Nêu ba đặc điểm mỗi loại; để công thức acetate ở phụ lục.",
+      "risk": "Sơ đồ hai nhánh chỉ là phân loại/nguồn gốc, không phải một phương trình phản ứng duy nhất. Giữ cách viết công thức của SGK."
+    },
+    {
+      "n": 9,
+      "title": "Bạn chọn chất liệu nào — và vì sao?",
+      "time": "08:00–08:50",
+      "seconds": 50,
+      "source": "SGK-1, SGK-2, SGK-3; nhãn quần áo thật",
+      "loop": null,
+      "screen": "Ba nhu cầu: mặc ngày nóng; giữ ấm; cần bền, dai. Tiêu chí: thành phần → nhóm tơ → tính chất.",
+      "cues": [
+        [
+          "08:00–08:10",
+          "Giơ lại ba món đồ A/B/C; chỉ nhãn của món đã kiểm tra."
+        ],
+        [
+          "08:10–08:35",
+          "Mời một bạn chọn cho một nhu cầu và giải thích bằng tính chất."
+        ],
+        [
+          "08:35–08:50",
+          "Nhận xét theo lập luận, không ép một đáp án duy nhất."
+        ]
+      ],
+      "speech": "Quay lại ba món đồ ban đầu. Mọi người hãy chọn một nhu cầu trên màn hình rồi giải thích: chất liệu nào phù hợp, và vì sao? [Nhận một câu trả lời.] Một câu trả lời tốt cần đi từ thành phần trên nhãn, xác định nhóm tơ, rồi dùng tính chất vừa học để giải thích. Ví dụ, nói “mặc mùa hè” chưa đủ; cần nhắc đến thấm hút mồ hôi hoặc độ thoáng theo đặc điểm SGK. Với giữ ấm, len và nitron đều có căn cứ trong bài, nên không nhất thiết chỉ có một đáp án. Đây là lựa chọn theo mục đích sử dụng, chứ không phải cuộc thi tìm loại tơ tốt nhất trong mọi tình huống.",
+      "transition": "Nhưng phù hợp khi sử dụng chưa phải toàn bộ câu chuyện.",
+      "cut": "Không hỏi cả ba nhu cầu; chỉ nhận một ví dụ có giải thích.",
+      "risk": "Không khẳng định chất liệu của đạo cụ khi chưa đọc nhãn. Không cho các loại tơ điểm số so sánh tùy ý."
+    },
+    {
+      "n": 10,
+      "title": "Tác hại: nhìn qua cả vòng đời",
+      "time": "08:50–10:05",
+      "seconds": 75,
+      "source": "MỞ RỘNG: EEA-1, EEA-2; không nằm trong ba ảnh SGK",
+      "loop": "S10_Microfibers_loop.mp4",
+      "screen": "Sản xuất → sử dụng → thải bỏ. Ví dụ vi sợi nhựa từ vải tổng hợp; xử lý nước thải không phải phép xóa ô nhiễm tuyệt đối.",
+      "cues": [
+        [
+          "08:50–09:10",
+          "Nói rõ đây là phần mở rộng theo yêu cầu cô; chỉ ba giai đoạn."
+        ],
+        [
+          "09:10–09:45",
+          "Theo dòng vi sợi trên sơ đồ: giặt → xử lý → một phần có thể thoát ra."
+        ],
+        [
+          "09:45–10:05",
+          "Phân biệt vi sợi với vi nhựa; tránh kết luận tự nhiên luôn vô hại."
+        ]
+      ],
+      "speech": "Phần tác hại sau đây là nội dung mở rộng theo yêu cầu của cô, có tham khảo Cơ quan Môi trường châu Âu. Ta cần nhìn cả vòng đời: tạo nguyên liệu và sản xuất, sử dụng, rồi xử lý sau khi bỏ đi. Các giai đoạn này có thể tạo sức ép về nước, nguyên liệu, năng lượng, hóa chất và chất thải. Một ví dụ cụ thể là sự phát thải vi sợi nhựa khi sử dụng và giặt vải từ sợi tổng hợp. Trong mô hình, một phần vi sợi được giữ lại ở công đoạn xử lý, phần khác có thể tiếp tục đi ra môi trường. Đây là sơ đồ đường đi, không phải số liệu về tỷ lệ lọc. Cũng cần phân biệt: không phải mọi vi sợi đều là vi nhựa. Và không nên kết luận tơ tự nhiên luôn không gây tác động, còn tơ tổng hợp luôn xấu. Muốn đánh giá phải xét cả cách sản xuất, dùng và thải bỏ.",
+      "transition": "Vậy chúng ta nên giảm tác động ở khâu nào?",
+      "cut": "Không đưa số liệu phần trăm; tập trung một đường phát thải và ba giai đoạn vòng đời.",
+      "risk": "Không thêm tuyên bố bệnh tật hoặc hiệu suất lọc khi chưa có nguồn. Không mô tả mọi loại tơ đều phát thải vi nhựa."
+    },
+    {
+      "n": 11,
+      "title": "Khắc phục: giảm từ đầu, dùng lâu hơn",
+      "time": "10:05–11:15",
+      "seconds": 70,
+      "source": "MỞ RỘNG: EEA-1, EEA-2, EC-1",
+      "loop": null,
+      "screen": "Hạn chế mua thừa; sửa và dùng lâu; giặt/bảo quản đúng nhãn; thu gom, phân loại; kiểm soát sản xuất và nước thải.",
+      "cues": [
+        [
+          "10:05–10:30",
+          "Nối tác động với việc cá nhân làm được."
+        ],
+        [
+          "10:30–10:55",
+          "Chỉ trách nhiệm sản xuất và thu gom/xử lý."
+        ],
+        [
+          "10:55–11:15",
+          "Chốt: tái chế quan trọng nhưng không thay thế giảm phát sinh."
+        ]
+      ],
+      "speech": "Biện pháp cần gắn với đúng chỗ phát sinh tác động. Với người sử dụng, có thể bắt đầu bằng việc tránh mua thừa, sửa khi hỏng và kéo dài thời gian dùng món đồ. Khi giặt và bảo quản, cần theo hướng dẫn trên nhãn thay vì áp dụng cùng một cách cho mọi chất liệu. Khi không dùng nữa, ưu tiên chuyển cho người khác dùng nếu còn phù hợp, hoặc thu gom và phân loại theo hệ thống tiếp nhận thực tế. Ở phía sản xuất, cần cải thiện thiết kế, quản lý hóa chất và xử lý nước thải để giảm phát thải. Tái chế là một phần của giải pháp, nhưng không nên vẽ một mũi tên vòng tròn rồi coi mọi chất thải đều quay lại thành sợi mới. Điều quan trọng là giảm tác động ngay từ đầu, đồng thời sử dụng và xử lý có trách nhiệm.",
+      "transition": "Vậy ba món quần áo ban đầu đã giúp chúng ta rút ra điều gì?",
+      "cut": "Chốt ba việc gần nhất: dùng lâu hơn, bảo quản đúng nhãn, thu gom đúng.",
+      "risk": "Không hứa lọc/tái chế được 100%. “Sinh học” hoặc “tự nhiên” không tự động chứng minh sản phẩm không có tác động."
+    },
+    {
+      "n": 12,
+      "title": "Hiểu sợi. Chọn đúng. Dùng bền.",
+      "time": "11:15–12:00",
+      "seconds": 45,
+      "source": "Tổng kết SGK-1/2/3 và phần mở rộng EEA",
+      "loop": null,
+      "screen": "Ba thông điệp kết luận; không phát video, không tự chuyển sang phụ lục.",
+      "cues": [
+        [
+          "11:15–11:30",
+          "Cầm lại một món đồ; nối với câu hỏi mở đầu."
+        ],
+        [
+          "11:30–11:50",
+          "Tóm tắt khái niệm, ba nhóm, lựa chọn và tác động."
+        ],
+        [
+          "11:50–12:00",
+          "Cảm ơn; dừng ở slide 12 để nhận câu hỏi."
+        ]
+      ],
+      "speech": "Ba món đồ đầu giờ không chỉ khác nhau ở màu sắc hay kiểu dáng. Đằng sau chúng là những loại tơ có nguồn gốc, cấu tạo và tính chất khác nhau. Hôm nay, chúng ta đã nhận diện khái niệm tơ, ba nhóm theo SGK, những ví dụ tiêu biểu, rồi xem cả tác hại và cách giảm thiểu. Thông điệp nhóm mình muốn giữ lại rất đơn giản: hiểu sợi để chọn đúng, và dùng bền để giảm lãng phí. Không có một loại tơ tốt nhất cho mọi mục đích. Cảm ơn cô và các bạn đã theo dõi; nhóm mình xin nhận câu hỏi.",
+      "transition": "Dừng ở đây. Chỉ mở phụ lục 13–17 khi có câu hỏi.",
+      "cut": "Giữ ba câu kết luận và lời cảm ơn.",
+      "risk": "Không đọc toàn bộ phụ lục trong thời lượng 12 phút."
+    }
+  ],
+  "appendices": [
+    {
+      "n": 13,
+      "title": "Tơ tự nhiên: bảng đối chiếu"
+    },
+    {
+      "n": 14,
+      "title": "Tơ tổng hợp: công thức cần nhớ"
+    },
+    {
+      "n": 15,
+      "title": "Visco và cellulose acetate"
+    },
+    {
+      "n": 16,
+      "title": "Câu hỏi dự phòng"
+    },
+    {
+      "n": 17,
+      "title": "Nguồn nội dung"
+    }
+  ],
+  "sources": {
+    "SGK-1": "Ảnh sgk_01_khai_niem_phan_loai.png do người dùng cung cấp: mục III. Tơ, trang in 59; khái niệm, Hình 13.2, bông và len.",
+    "SGK-2": "Ảnh sgk_02_cac_loai_to.png do người dùng cung cấp: tơ tằm; nylon-6,6; capron; nitron; visco. Không xác định số trang bị cắt.",
+    "SGK-3": "Ảnh sgk_03_cellulose_acetate.png do người dùng cung cấp: cellulose acetate và hai công thức mắt xích. Không xác định số trang bị cắt.",
+    "EEA-1": "European Environment Agency. Microplastics from textiles: towards a circular economy for textiles in Europe. https://www.eea.europa.eu/en/analysis/publications/microplastics-from-textiles-towards-a-circular-economy-for-textiles-in-europe",
+    "EEA-2": "European Environment Agency. What are the environmental impacts of the textile industry? https://www.eea.europa.eu/en/about/contact-us/faqs/what-are-the-environmental-impacts-of-textiles",
+    "EC-1": "European Commission. EU strategy for sustainable and circular textiles. https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+    "R-1": "Remotion. ThreeCanvas. https://www.remotion.dev/docs/three-canvas",
+    "R-2": "Remotion. @remotion/three. https://www.remotion.dev/docs/three",
+    "C-1": "Canva Help Center. Adjust video playback: autoplay, loop, or speed. https://www.canva.com/help/adjust-video-playback/",
+    "O-1": "OpenAI / ChatGPT Learn. Open a local project in Codex. https://learn.chatgpt.com/training/codex-lab/index.html?step=project"
+  }
+}

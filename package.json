@@ -1,0 +1,25 @@
+{
+  "name": "to-polymer-remotion-threejs",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts PolymerExplainer out/to-polymer-3d.mp4 --codec h264 --crf 18"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.0.0",
+    "@remotion/three": "^4.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.180.0",
+    "typescript": "^5.0.0"
+  }
+}
